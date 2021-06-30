@@ -18,6 +18,8 @@ and displays them on the command line you can also query them based on the docto
 * [Model](../master/src/Model)
 * [UI](../master/src/ui)
 
+FOR PATIENTS
+
 1.The Main class starts the app, press run and you will be 
 shown 3 options, you'll choose who you are, either the doctor or the Patient(it doesn't register new ones
 you´ll have to pick one of these:
